@@ -1,6 +1,7 @@
 require "english_thoughts/version"
 
 module EnglishThoughts
+  module_function
     
  THOUGHTS = ['Success is going from failure to failure without losing enthusiasm.',
   'Simplicity is the ultimate sophistication.'
@@ -14,5 +15,4 @@ module EnglishThoughts
     puts THOUGHTS
    end
 
-   module_function
 end
