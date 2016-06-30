@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["imnithink@gmail.com"]
   spec.summary       = %q{Handpicked english thoughts.}
   spec.description   = %q{Print a random thought from pre-defined set}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/imnithin/english_thoughts."
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
